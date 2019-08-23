@@ -1,0 +1,2 @@
+include ':app', ':domain_model', ':domain_usecase', ':infraestructure_data'
+rootProject.name='CleanAndroidArquitecture'
